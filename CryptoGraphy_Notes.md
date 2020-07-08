@@ -1,6 +1,5 @@
 # Cryptography 🔒
 
-Link to the course -
 
 ## Modules Covered
 
