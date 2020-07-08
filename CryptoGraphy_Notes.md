@@ -1,4 +1,4 @@
-# Cryptography - Pluralsight
+# Cryptography 🔒
 
 Link to the course -
 
